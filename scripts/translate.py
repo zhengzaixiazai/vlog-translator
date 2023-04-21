@@ -12,7 +12,7 @@ prompt_base = (
     "Here is a part of the transcript of my vlog. "
     "I am talking about my product called Inkdrop, "
     "which is a Markdown note-taking app designed for developers. "
-    "Translate the following text precisely into Japanese "
+    "Translate the following text precisely into Chinese "
     "with the polite and formal style. "
     "Translate from [START] to [END]:\n[START]\n"
 )
